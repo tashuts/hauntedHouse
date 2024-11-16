@@ -16,7 +16,9 @@ Help Information:
 
 def start_story():
     """Initial greeting and starting point of the game."""
-    print("Welcome to the Haunted House Adventure!")
+    print("#"*100 + "\n")
+    print("Welcome to the Haunted House Adventure!\n".upper())
+    print("#"*100 + "\n")
     print("You stand before an eerie mansion. The door creaks open as if inviting you inside.")
     print("Type 'stop' at any time to quit the game.")
     print("Type 'help' at any time if you need help with the game.\n")
