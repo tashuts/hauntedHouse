@@ -121,6 +121,7 @@ This project is open-source and free to use. You can modify and distribute it un
 - **Developer**: Tanisha Shankpal
 - **Version**: 1.0
 - **Release Date**: 16-Nov-2024
+- **Copyright of images used**: All images were source from Pixabay.com under free-license.
 
 ---
 
