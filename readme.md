@@ -118,9 +118,9 @@ This project is open-source and free to use. You can modify and distribute it un
 ---
 
 ### **Game Credits**
-- **Developer**: [Your Name]
+- **Developer**: Tanisha Shankpal
 - **Version**: 1.0
-- **Release Date**: [Insert Date]
+- **Release Date**: 16-Nov-2024
 
 ---
 
